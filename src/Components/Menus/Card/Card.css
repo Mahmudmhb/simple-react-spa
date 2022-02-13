@@ -1,0 +1,15 @@
+.car-container {
+  display: flex;
+  align-items: center;
+  background-color: cadetblue;
+}
+.car-container img {
+  border-radius: 50%;
+  width: 80px;
+  margin: 10px;
+}
+.card {
+}
+.button {
+  background-color: goldenrod;
+}
